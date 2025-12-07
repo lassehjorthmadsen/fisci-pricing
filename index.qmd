@@ -7,7 +7,7 @@ format: html
 |------|--------|-------|--------------|
 | **Trial** | Free/week | 1 | Full functionality |
 | **Individual** | $299/year | 1 | + Priority support |
-| **Non-profit** | $499/year | Up to 10 | + Newsletter access |
+| **Non-profit** | $499/year | Up to 10 | + Newsletter from Mike Young Academy with pro tips |
 | **Commercial** | $699/year | Up to 20 | + Priority bandwidth + Beta access |
 
 **All plans include full functionality. Higher tiers include all features from lower tiers.**
@@ -19,7 +19,7 @@ format: html
 <footer>
 <div style="text-align: center; padding: 20px; border-top: 1px solid #eee; margin-top: 40px;">
 <small>
-[Terms of Service](pricing.findscientist.org/tos.html) | [Privacy Policy](pricing.findscientist.org/privacy.html)
+[Terms of Service](tos.html) | [Privacy Policy](privacy.html)
 </small>
 </div>
 </footer>

@@ -1,0 +1,98 @@
+---
+title: "Privacy Policy"
+subtitle: "Effective Date: December 7, 2025"
+format: html
+---
+
+
+## 1. Information We Collect
+
+### Personal Information
+- Name and email address when you create an account
+- Billing information for paid subscriptions
+- Usage data and analytics to improve our service
+
+### Automatically Collected Information
+- IP address and browser information
+- Cookies and similar tracking technologies
+- Service usage patterns and preferences
+
+## 2. How We Use Your Information
+
+We use your information to:
+
+- Provide and maintain our services
+- Process payments and manage subscriptions
+- Send important service notifications
+- Improve our services and user experience
+- Comply with legal obligations
+
+### Mike Young Academy Newsletter
+For Non-profit and Commercial plan subscribers, we may send newsletters containing professional tips and updates. You can opt out at any time.
+
+## 3. Information Sharing
+
+We do not sell, trade, or rent your personal information to third parties. We may share information in these limited circumstances:
+
+- **Service Providers:** With trusted third parties who help us operate our service
+- **Legal Requirements:** When required by law or to protect our rights
+- **Business Transfers:** In connection with a merger, acquisition, or sale of assets
+
+## 4. Data Security
+
+We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.
+
+## 5. Data Retention
+
+We retain your personal information for as long as necessary to provide our services and comply with legal obligations. Account data is deleted within 30 days of account termination.
+
+## 6. Your Rights
+
+Depending on your location, you may have the right to:
+- Access your personal information
+- Correct inaccurate information
+- Request deletion of your information
+- Object to processing of your information
+- Data portability
+
+## 7. Cookies and Tracking
+
+We use cookies and similar technologies to:
+
+- Remember your preferences
+- Analyze site usage and improve performance
+
+You can control cookie settings through your browser preferences.
+
+## 8. Third-Party Services
+
+Our service may contain links to third-party websites or services. This Privacy Policy does not apply to those external services.
+
+## 9. International Data Transfers
+
+If you are located outside [your country], your information may be transferred to and processed in [your country] where our servers are located.
+
+## 10. Children's Privacy
+
+Our service is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+
+## 11. Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by email or through our service.
+
+## 12. Contact Us
+
+If you have questions about this Privacy Policy or our privacy practices, please contact us at:
+
+**Email:** [your-privacy-email@domain.com]  
+**Address:** [Your Business Address]
+
+---
+
+<footer>
+<div style="text-align: center; padding: 20px; border-top: 1px solid #eee; margin-top: 40px;">
+<small>
+[Back to Pricing](index.html) | [Terms of Service](tos.html)
+</small>
+</div>
+</footer>
