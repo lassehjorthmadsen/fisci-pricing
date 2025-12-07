@@ -1,0 +1,20 @@
+---
+title: "Find Scientist Pricing"
+format: html
+---
+
+## Trial
+7-day trial, full functionality
+
+Start 7-day trial
+
+## Individual subscription
+$299/year. Full functionality.
+
+Start 7-day trial
+
+## Non-profit organizational subscription
+$499/year, up to 10 users with full functionality
+
+## Commercial organizationel subscription
+$699 per year, up to 20 users, full functionality, priority bandwith, exclusive newsletter with Tips & Tricks from Mike Young Academy
