@@ -19,7 +19,7 @@ format: html
 <footer>
 <div style="text-align: center; padding: 20px; border-top: 1px solid #eee; margin-top: 40px;">
 <small>
-[Terms of Service](#) | [Privacy Policy](#)
+[Terms of Service](pricing.findscientist.org/tos.html) | [Privacy Policy](pricing.findscientist.org/privacy.html)
 </small>
 </div>
 </footer>
