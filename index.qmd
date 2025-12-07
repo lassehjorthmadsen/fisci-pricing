@@ -3,18 +3,23 @@ title: "Find Scientist Pricing"
 format: html
 ---
 
-## Trial
-7-day trial, full functionality
+| Plan | Price | Users | Key Features |
+|------|--------|-------|--------------|
+| **Trial** | Free/week | 1 | Full functionality |
+| **Individual** | $299/year | 1 | + Priority support |
+| **Non-profit** | $499/year | Up to 10 | + Newsletter access |
+| **Commercial** | $699/year | Up to 20 | + Priority bandwidth + Beta access |
 
-Start 7-day trial
+**All plans include full functionality. Higher tiers include all features from lower tiers.**
 
-## Individual subscription
-$299/year. Full functionality.
+[Start 7-day free trial](#) | [Choose Individual](#) | [Choose Non-profit](#) | [Choose Commercial](#)
 
-Start 7-day trial
+---
 
-## Non-profit organizational subscription
-$499/year, up to 10 users with full functionality
-
-## Commercial organizationel subscription
-$699 per year, up to 20 users, full functionality, priority bandwith, exclusive newsletter with Tips & Tricks from Mike Young Academy
+<footer>
+<div style="text-align: center; padding: 20px; border-top: 1px solid #eee; margin-top: 40px;">
+<small>
+[Terms of Service](#) | [Privacy Policy](#)
+</small>
+</div>
+</footer>
